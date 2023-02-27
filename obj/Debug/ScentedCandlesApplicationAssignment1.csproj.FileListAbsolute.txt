@@ -1,0 +1,7 @@
+E:\Visual Studio Projects\Assignment1\ScentedCandlesApplicationAssignment1\bin\Debug\ScentedCandlesApplicationAssignment1.exe.config
+E:\Visual Studio Projects\Assignment1\ScentedCandlesApplicationAssignment1\bin\Debug\ScentedCandlesApplicationAssignment1.exe
+E:\Visual Studio Projects\Assignment1\ScentedCandlesApplicationAssignment1\bin\Debug\ScentedCandlesApplicationAssignment1.pdb
+E:\Visual Studio Projects\Assignment1\ScentedCandlesApplicationAssignment1\obj\Debug\ScentedCandlesApplicationAssignment1.csprojAssemblyReference.cache
+E:\Visual Studio Projects\Assignment1\ScentedCandlesApplicationAssignment1\obj\Debug\ScentedCandlesApplicationAssignment1.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projects\Assignment1\ScentedCandlesApplicationAssignment1\obj\Debug\ScentedCandlesApplicationAssignment1.exe
+E:\Visual Studio Projects\Assignment1\ScentedCandlesApplicationAssignment1\obj\Debug\ScentedCandlesApplicationAssignment1.pdb
